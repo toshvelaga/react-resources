@@ -8,6 +8,9 @@
 ## React without JSX
 * [React without JSX and without a Build Workflow](https://www.youtube.com/watch?v=dUlz4tc9LSo&t=762s) 
 
+## React without React Router
+* [React: Navigation Without React-Router](https://ncoughlin.com/posts/react-navigation-without-react-router/) 
+
 ## useReducer Hook
 * [Examples of the useReducer Hook](https://daveceddia.com/usereducer-hook-examples/) 
 
