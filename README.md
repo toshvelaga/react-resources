@@ -8,3 +8,7 @@
 ## React without JSX
 * [React without JSX and without a Build Workflow](https://www.youtube.com/watch?v=dUlz4tc9LSo&t=762s) 
 
+## useReducer Hook
+* [Examples of the useReducer Hook](https://daveceddia.com/usereducer-hook-examples/) 
+
+
